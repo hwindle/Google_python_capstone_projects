@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Mango",
+        "weight": 300,
+        "description": "Mango contains higher levels of vitamin C than other fruits.",
+        "image_name": "supplier-data/images/001.jpg"
+    },
+    {
+        "name": "Apple",
+        "weight": 450,
+        "description": "Sweet, crunchy and tasty.",
+        "image_name": "supplier-data/images/002.jpg"
+    }
+]
